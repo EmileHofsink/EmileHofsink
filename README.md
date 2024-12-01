@@ -27,7 +27,7 @@ work with every day.
 
 * 📆 I am continually learning about these tools, contributing back to them and talking about them.
 
-[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,gcp,terraform,py,go,js,github,git,jenkins,html,css,neovim,apple,bash&theme=dark&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,gcp,terraform,py,go,js,github,git,jenkins,html,css,neovim,apple,bash,linux&theme=dark&perline=8)](https://skillicons.dev)
 
 <img src="./contact.png" width=400>
 
