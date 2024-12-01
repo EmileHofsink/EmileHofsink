@@ -44,12 +44,15 @@ work with every day.
 * 📫 How to reach me [emile.hofsink@au.ncs.co](mailto:emile.hofsink@au.ncs.co).
 
 <div align="center">
-<img src="./hr.png" height=15>
-
+<img src="./hr.png" height=10>
+<br>
+<br>
+  
   ![Emile Hofsink's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmileHofsink&show_icons=true&theme=panda)
 
 </div>
+</span>
 </td>
 </tr>
 </table>
-</span>
+
