@@ -24,6 +24,7 @@ You can click the Preview link to take a look at your changes.
 
 * 🤖 Here are some of the tools, languages, frameworks and tech that I love to
 work with every day.
+
 * 📆 I am continually learning about these tools, contributing back to them and talking about them.
 
 [![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,gcp,terraform,py,go,js,github,git,jenkins,html,css,neovim,apple,bash&theme=dark&perline=8)](https://skillicons.dev)
