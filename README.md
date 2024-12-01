@@ -14,8 +14,6 @@ You can click the Preview link to take a look at your changes.
 <br>
 </div>
 
-
-
 <table align=center>
 <tr>
 <td>
@@ -27,7 +25,6 @@ You can click the Preview link to take a look at your changes.
 
 * 👀 I’m interested in Platform Engineering, DevOps, Automation and Cloud Native computing.
 
-![Emile Hofsink's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmileHofsink&show_icons=true&theme=panda)
 
 <img src="./skills.png" width=400>
 
@@ -45,10 +42,14 @@ work with every day.
 * 💞️ I’m looking to collaborate on work projects that I have on-going.
 
 * 📫 How to reach me [emile.hofsink@au.ncs.co](mailto:emile.hofsink@au.ncs.co).
+
+<div align="center">
+<img src="./hr.png" height=15>
+
+  ![Emile Hofsink's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmileHofsink&show_icons=true&theme=panda)
+
+</div>
 </td>
 </tr>
 </table>
-
-
-
 </span>
