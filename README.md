@@ -3,6 +3,7 @@ EmileHofsink/EmileHofsink is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 <div align="center">
+
   
 <img src="./banner.png" width=600>
 <br>
@@ -55,4 +56,6 @@ work with every day.
 </td>
 </tr>
 </table>
-
+<div align=center>
+<img src="./footer.png" width=600>
+</div>
