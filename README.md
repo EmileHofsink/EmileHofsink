@@ -3,9 +3,9 @@ EmileHofsink/EmileHofsink is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 <div align="center">
-<img src="./banner.png" width=800>
+<img src="./banner.png" width=600>
   
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ubuntu&duration=2000&pause=1000&color=008573&width=435&lines=devops%2C+platform+engineering+and+automation" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ubuntu&duration=2500&pause=1000&color=008573&center=true&vCenter=true&random=true&width=435&lines=devops%2C+platform+engineering+and+automation" alt="Typing SVG" /></a>
 
 </div>
 
