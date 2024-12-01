@@ -8,9 +8,11 @@ You can click the Preview link to take a look at your changes.
   
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ubuntu&duration=2500&pause=1000&color=008573&center=true&vCenter=true&repeat=false&random=true&width=435&lines=devops%2C+platform+engineering+and+automation." alt="Typing SVG" /></a>
 
+<img src="./hr.png">
+
 </div>
 
----
+
 <span style="font-family:Ubuntu;">
 <img src="./about.png" width=400>
 
