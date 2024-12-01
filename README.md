@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 ---
-
+<span style="font-family:Ubuntu;">
 <img src="./about.png" width=400>
 
 
@@ -34,3 +34,4 @@ work with every day.
 * 💞️ I’m looking to collaborate on work projects that I have on-going.
 
 * 📫 How to reach me [emile.hofsink@au.ncs.co](mailto:emile.hofsink@au.ncs.co).
+</span>
